@@ -1,0 +1,28 @@
+{
+    "name": "paramonovav/laravel4-header-csp",
+    "description": "Provides support for enforcing Content Security Policy with headers in Laravel 4 responses.",
+    "keywords": ["laravel", "laravel 4", "header", "response", "content security policy", "xss protection", "csp"],
+    "license": "MIT",
+    "homepage": "https://github.com/paramonovav/laravel4-header-csp",
+    "authors": [
+        {
+            "name": "Anton Paramonov",
+            "email": "paramonovav@gmail.com",
+            "homepage": "https://github.com/paramonovav",
+            "role": "Developer"            
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Paramonovav\\Laravel4HeaderCsp\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
