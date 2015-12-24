@@ -1,4 +1,6 @@
 # Response header Content Security Policy for Laravel 4
+[![Latest Stable Version](https://poser.pugx.org/paramonovav/laravel4-header-csp/v/stable)](https://packagist.org/packages/paramonovav/laravel4-header-csp) [![Total Downloads](https://poser.pugx.org/paramonovav/laravel4-header-csp/downloads)](https://packagist.org/packages/paramonovav/laravel4-header-csp) [![Latest Unstable Version](https://poser.pugx.org/paramonovav/laravel4-header-csp/v/unstable)](https://packagist.org/packages/paramonovav/laravel4-header-csp) [![License](https://poser.pugx.org/paramonovav/laravel4-header-csp/license)](https://packagist.org/packages/paramonovav/laravel4-header-csp)
+
 Provides support for enforcing Content Security Policy and XSS Protection with headers in Laravel 4 responses.
 
 *Note*: Based on [Content Security Policy](http://content-security-policy.com/), [Improving Web Security with the Content Security Policy](http://www.sitepoint.com/improving-web-security-with-the-content-security-policy/), [HTTP headers](https://www.owasp.org/index.php/List_of_useful_HTTP_headers).
